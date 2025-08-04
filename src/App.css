@@ -71,17 +71,6 @@ body {
   opacity: 0.8;
 }
 
-/* Large screens - center the header */
-@media (min-width: 1400px) {
-  .App-header {
-    text-align: center;
-  }
-  
-  .App-header p {
-    margin: 0 auto 0.5rem auto;
-  }
-}
-
 /* Mobile Responsive */
 @media (max-width: 768px) {
   .App-header h1 {

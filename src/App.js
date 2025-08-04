@@ -36,7 +36,7 @@ const items = [
   {
     id: 4,
     title: "Storage Cabinet",
-    description: "Storage cabinet with 4 boxes and drawers.",
+    description: "Storage cabinet with 3 boxes and drawers.",
     price: "$20",
     images: [
       "/images/storage.jpg"
