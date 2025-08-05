@@ -71,6 +71,18 @@ body {
   opacity: 0.8;
 }
 
+/* Desktop/Laptop screens - center the header */
+@media (min-width: 1024px) {
+  .App-header {
+    text-align: center;
+    padding: 2.5rem 1rem;
+  }
+  
+  .App-header p {
+    margin: 0 auto 0.5rem auto;
+  }
+}
+
 /* Mobile Responsive */
 @media (max-width: 768px) {
   .App-header h1 {
