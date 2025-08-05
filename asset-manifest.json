@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/move-out-sale/static/css/main.c8128731.css",
-    "main.js": "/move-out-sale/static/js/main.8a79d21a.js",
-    "index.html": "/move-out-sale/index.html",
-    "main.c8128731.css.map": "/move-out-sale/static/css/main.c8128731.css.map",
-    "main.8a79d21a.js.map": "/move-out-sale/static/js/main.8a79d21a.js.map"
+    "main.css": "/moving-out-sale/static/css/main.c8128731.css",
+    "main.js": "/moving-out-sale/static/js/main.1ce80485.js",
+    "index.html": "/moving-out-sale/index.html",
+    "main.c8128731.css.map": "/moving-out-sale/static/css/main.c8128731.css.map",
+    "main.1ce80485.js.map": "/moving-out-sale/static/js/main.1ce80485.js.map"
   },
   "entrypoints": [
     "static/css/main.c8128731.css",
-    "static/js/main.8a79d21a.js"
+    "static/js/main.1ce80485.js"
   ]
 }
